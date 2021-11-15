@@ -1,0 +1,618 @@
+[
+  {
+    "sourceContractId": 10216,
+    "sourceUnitId": 10216,
+    "sourceName": "PCH Mello",
+    "type": "generation",
+    "availablePower": 2698.568,
+    "availableForSale": 0,
+    "cost": 0,
+    "balance": 1050,
+    "destinations": [
+      {
+        "unitId": 10135,
+        "unitName": "Água Limpa",
+        "allocatedPower": 2698.568,
+        "ICMSCost": 0,
+        "ICMSCostNotCreditable": 0
+      }
+    ],
+    "destinationStates": [
+      { "stateId": 13, "stateName": "Minas Gerais", "allocatedPower": 2698.568 }
+    ]
+  },
+  {
+    "sourceContractId": 10214,
+    "sourceUnitId": 10214,
+    "sourceName": "PCH Glória",
+    "type": "generation",
+    "availablePower": 4273.75,
+    "availableForSale": 0,
+    "cost": 0,
+    "balance": 1050,
+    "destinations": [
+      {
+        "unitId": 10135,
+        "unitName": "Água Limpa",
+        "allocatedPower": 1833.265,
+        "ICMSCost": 0,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10136,
+        "unitName": "Alegria",
+        "allocatedPower": 1941.241,
+        "ICMSCost": 0,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10145,
+        "unitName": "Fábrica Nova",
+        "allocatedPower": 499.244,
+        "ICMSCost": 0,
+        "ICMSCostNotCreditable": 0
+      }
+    ],
+    "destinationStates": [
+      { "stateId": 13, "stateName": "Minas Gerais", "allocatedPower": 4273.75 }
+    ]
+  },
+  {
+    "sourceContractId": 10217,
+    "sourceUnitId": 10217,
+    "sourceName": "PCH Nova Mauricio",
+    "type": "generation",
+    "availablePower": 12204.608,
+    "availableForSale": 0,
+    "cost": 0,
+    "balance": 1050,
+    "destinations": [
+      {
+        "unitId": 10145,
+        "unitName": "Fábrica Nova",
+        "allocatedPower": 2008.496,
+        "ICMSCost": 0,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10151,
+        "unitName": "Onça Puma",
+        "allocatedPower": 10196.112,
+        "ICMSCost": 0,
+        "ICMSCostNotCreditable": 0
+      }
+    ],
+    "destinationStates": [
+      {
+        "stateId": 13,
+        "stateName": "Minas Gerais",
+        "allocatedPower": 2008.496
+      },
+      { "stateId": 14, "stateName": "Pará", "allocatedPower": 10196.112 }
+    ]
+  },
+  {
+    "sourceContractId": 10190,
+    "sourceUnitId": 10190,
+    "sourceName": "Estreito",
+    "type": "generation",
+    "availablePower": 151541.703,
+    "availableForSale": 0,
+    "cost": 0,
+    "balance": 1050,
+    "destinations": [
+      {
+        "unitId": 10151,
+        "unitName": "Onça Puma",
+        "allocatedPower": 50589.476,
+        "ICMSCost": 0,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10157,
+        "unitName": "Sossego",
+        "allocatedPower": 27835.738,
+        "ICMSCost": 0,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10194,
+        "unitName": "Porto São Luis",
+        "allocatedPower": 29706.774,
+        "ICMSCost": 0,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10138,
+        "unitName": "Carajás",
+        "allocatedPower": 39717.139,
+        "ICMSCost": 0,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10147,
+        "unitName": "Itabira 2",
+        "allocatedPower": 3692.576,
+        "ICMSCost": 0,
+        "ICMSCostNotCreditable": 0
+      }
+    ],
+    "destinationStates": [
+      { "stateId": 14, "stateName": "Pará", "allocatedPower": 118142.353 },
+      { "stateId": 10, "stateName": "Maranhão", "allocatedPower": 29706.774 },
+      { "stateId": 13, "stateName": "Minas Gerais", "allocatedPower": 3692.576 }
+    ]
+  },
+  {
+    "sourceContractId": 470,
+    "sourceUnitId": 10109,
+    "sourceName": "Engie Brasil Energia Comer. LTDA",
+    "type": "contract",
+    "availablePower": 28482.614,
+    "availableForSale": 0,
+    "cost": 39.58,
+    "balance": 1050,
+    "destinations": [
+      {
+        "unitId": 10161,
+        "unitName": "TIG",
+        "allocatedPower": 3120.324,
+        "ICMSCost": 21794.545397647,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10152,
+        "unitName": "Pelotização São Luís",
+        "allocatedPower": 12993.356,
+        "ICMSCost": 97957.529615238,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10147,
+        "unitName": "Itabira 2",
+        "allocatedPower": 12368.934,
+        "ICMSCost": 100271.818448675,
+        "ICMSCostNotCreditable": 0
+      }
+    ],
+    "destinationStates": [
+      {
+        "stateId": 19,
+        "stateName": "Rio de Janeiro",
+        "allocatedPower": 3120.324
+      },
+      { "stateId": 10, "stateName": "Maranhão", "allocatedPower": 12993.356 },
+      {
+        "stateId": 13,
+        "stateName": "Minas Gerais",
+        "allocatedPower": 12368.934
+      }
+    ]
+  },
+  {
+    "sourceContractId": 329,
+    "sourceUnitId": 10089,
+    "sourceName": "Aliança Geração de Energia S.A.",
+    "type": "contract",
+    "availablePower": 15400.8,
+    "availableForSale": 0,
+    "cost": 167.05,
+    "balance": 1050,
+    "destinations": [
+      {
+        "unitId": 10147,
+        "unitName": "Itabira 2",
+        "allocatedPower": 15400.8,
+        "ICMSCost": 526939.299759036,
+        "ICMSCostNotCreditable": 0
+      }
+    ],
+    "destinationStates": [
+      { "stateId": 13, "stateName": "Minas Gerais", "allocatedPower": 15400.8 }
+    ]
+  },
+  {
+    "sourceContractId": 337,
+    "sourceUnitId": 10089,
+    "sourceName": "Aliança Geração de Energia S.A.",
+    "type": "contract",
+    "availablePower": 27086.71,
+    "availableForSale": 0,
+    "cost": 167.05,
+    "balance": 1050,
+    "destinations": [
+      {
+        "unitId": 10147,
+        "unitName": "Itabira 2",
+        "allocatedPower": 24913.149,
+        "ICMSCost": 852404.893827108,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10192,
+        "unitName": "Itabira 4",
+        "allocatedPower": 2173.561,
+        "ICMSCost": 74368.52055241,
+        "ICMSCostNotCreditable": 0
+      }
+    ],
+    "destinationStates": [
+      { "stateId": 13, "stateName": "Minas Gerais", "allocatedPower": 27086.71 }
+    ]
+  },
+  {
+    "sourceContractId": 339,
+    "sourceUnitId": 10089,
+    "sourceName": "Aliança Geração de Energia S.A.",
+    "type": "contract",
+    "availablePower": 38533.246,
+    "availableForSale": 0,
+    "cost": 167.05,
+    "balance": 1050,
+    "destinations": [
+      {
+        "unitId": 10192,
+        "unitName": "Itabira 4",
+        "allocatedPower": 31068.231,
+        "ICMSCost": 1063001.395245181,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10189,
+        "unitName": "Usina 8",
+        "allocatedPower": 7465.015,
+        "ICMSCost": 255415.937924699,
+        "ICMSCostNotCreditable": 0
+      }
+    ],
+    "destinationStates": [
+      {
+        "stateId": 13,
+        "stateName": "Minas Gerais",
+        "allocatedPower": 31068.231
+      },
+      {
+        "stateId": 8,
+        "stateName": "Espírito Santo",
+        "allocatedPower": 7465.015
+      }
+    ]
+  },
+  {
+    "sourceContractId": 345,
+    "sourceUnitId": 10089,
+    "sourceName": "Aliança Geração de Energia S.A.",
+    "type": "contract",
+    "availablePower": 43683.875,
+    "availableForSale": 0,
+    "cost": 167.05,
+    "balance": 1050,
+    "destinations": [
+      {
+        "unitId": 10189,
+        "unitName": "Usina 8",
+        "allocatedPower": 19004.36,
+        "ICMSCost": 650235.322240964,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10137,
+        "unitName": "Brucutu",
+        "allocatedPower": 23820.136,
+        "ICMSCost": 815007.388187952,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10149,
+        "unitName": "MAC",
+        "allocatedPower": 250.167,
+        "ICMSCost": 8559.478975301,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10140,
+        "unitName": "CDM",
+        "allocatedPower": 156.931,
+        "ICMSCost": 5369.403618675,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10146,
+        "unitName": "Gongo Soco",
+        "allocatedPower": 343.947,
+        "ICMSCost": 11768.167324699,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10162,
+        "unitName": "Timbopeba",
+        "allocatedPower": 108.334,
+        "ICMSCost": 3706.654336145,
+        "ICMSCostNotCreditable": 0
+      }
+    ],
+    "destinationStates": [
+      {
+        "stateId": 8,
+        "stateName": "Espírito Santo",
+        "allocatedPower": 19004.36
+      },
+      {
+        "stateId": 13,
+        "stateName": "Minas Gerais",
+        "allocatedPower": 24679.515
+      }
+    ]
+  },
+  {
+    "sourceContractId": 347,
+    "sourceUnitId": 10089,
+    "sourceName": "Aliança Geração de Energia S.A.",
+    "type": "contract",
+    "availablePower": 78733.209,
+    "availableForSale": 0,
+    "cost": 167.05,
+    "balance": 1050,
+    "destinations": [
+      {
+        "unitId": 10162,
+        "unitName": "Timbopeba",
+        "allocatedPower": 5002.999,
+        "ICMSCost": 171177.912170482,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10156,
+        "unitName": "Usina 1 e 2",
+        "allocatedPower": 5962.466,
+        "ICMSCost": 204006.133374699,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10186,
+        "unitName": "Usina 3",
+        "allocatedPower": 12097.164,
+        "ICMSCost": 413905.195004819,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10185,
+        "unitName": "Usina 4",
+        "allocatedPower": 9511.319,
+        "ICMSCost": 325430.352556024,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10206,
+        "unitName": "Utilidades SER1",
+        "allocatedPower": 1588.124,
+        "ICMSCost": 54337.758330121,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10205,
+        "unitName": "Utilidades Portuárias",
+        "allocatedPower": 2603.343,
+        "ICMSCost": 89073.537572892,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10188,
+        "unitName": "Usina 5 e 6",
+        "allocatedPower": 21913.912,
+        "ICMSCost": 749785.819195181,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10187,
+        "unitName": "Usina 7",
+        "allocatedPower": 1253.506,
+        "ICMSCost": 42888.78330241,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10207,
+        "unitName": "Utilidades SER2",
+        "allocatedPower": 2718.153,
+        "ICMSCost": 93001.768639157,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10159,
+        "unitName": "Terminal de Carga Geral",
+        "allocatedPower": 3389.943,
+        "ICMSCost": 115987.103958434,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10160,
+        "unitName": "Terminal de Minério",
+        "allocatedPower": 6698.164,
+        "ICMSCost": 229178.084763855,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10144,
+        "unitName": "Fábrica",
+        "allocatedPower": 1824.735,
+        "ICMSCost": 62433.417948795,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10191,
+        "unitName": "Fábrica Pelotização",
+        "allocatedPower": 231.926,
+        "ICMSCost": 7935.362061446,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10143,
+        "unitName": "Córrego do Feijão",
+        "allocatedPower": 193.867,
+        "ICMSCost": 6633.171083735,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10148,
+        "unitName": "Jangada",
+        "allocatedPower": 299.605,
+        "ICMSCost": 10251.003123494,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10155,
+        "unitName": "Serra Sul",
+        "allocatedPower": 3443.983,
+        "ICMSCost": 117836.085813855,
+        "ICMSCostNotCreditable": 0
+      }
+    ],
+    "destinationStates": [
+      {
+        "stateId": 13,
+        "stateName": "Minas Gerais",
+        "allocatedPower": 7553.132
+      },
+      {
+        "stateId": 8,
+        "stateName": "Espírito Santo",
+        "allocatedPower": 67736.094
+      },
+      { "stateId": 14, "stateName": "Pará", "allocatedPower": 3443.983 }
+    ]
+  },
+  {
+    "sourceContractId": 792,
+    "sourceUnitId": 10089,
+    "sourceName": "Aliança Geração de Energia S.A.",
+    "type": "contract",
+    "availablePower": 67746.606,
+    "availableForSale": 1161.555,
+    "cost": 167.05,
+    "balance": 1050,
+    "destinations": [
+      {
+        "unitId": 10155,
+        "unitName": "Serra Sul",
+        "allocatedPower": 21592.6,
+        "ICMSCost": 738792.109759037,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10199,
+        "unitName": "Tamanduá SE",
+        "allocatedPower": 7012.404,
+        "ICMSCost": 239929.825293976,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10153,
+        "unitName": "Pico",
+        "allocatedPower": 8921.133,
+        "ICMSCost": 305237.103012651,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10195,
+        "unitName": "Vargem Grande I",
+        "allocatedPower": 4415.921,
+        "ICMSCost": 151091.003034337,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10196,
+        "unitName": "Vargem Grande II",
+        "allocatedPower": 15316.491,
+        "ICMSCost": 524054.662245181,
+        "ICMSCostNotCreditable": 0
+      },
+      {
+        "unitId": 10197,
+        "unitName": "Vargem Grande Pelotização",
+        "allocatedPower": 9326.502,
+        "ICMSCost": 319106.82776747,
+        "ICMSCostNotCreditable": 0
+      }
+    ],
+    "destinationStates": [
+      { "stateId": 14, "stateName": "Pará", "allocatedPower": 21592.6 },
+      {
+        "stateId": 13,
+        "stateName": "Minas Gerais",
+        "allocatedPower": 44992.451
+      }
+    ]
+  },
+  {
+    "sourceContractId": 791,
+    "sourceUnitId": 10089,
+    "sourceName": "Aliança Geração de Energia S.A.",
+    "type": "contract",
+    "availablePower": 72217.928,
+    "availableForSale": 72217.928,
+    "cost": 167.05,
+    "balance": 1050,
+    "destinations": [],
+    "destinationStates": []
+  },
+  {
+    "sourceContractId": 469,
+    "sourceUnitId": 10129,
+    "sourceName": "Norte Energia S.A.",
+    "type": "contract",
+    "availablePower": 351985.284,
+    "availableForSale": 351985.284,
+    "cost": 168.11,
+    "balance": 1050,
+    "destinations": [],
+    "destinationStates": []
+  },
+  {
+    "sourceContractId": 341,
+    "sourceUnitId": 10177,
+    "sourceName": "Central Eolica Garrote S.A.",
+    "type": "contract",
+    "availablePower": 4419.36,
+    "availableForSale": 4419.36,
+    "cost": 191.99,
+    "balance": 1050,
+    "destinations": [],
+    "destinationStates": []
+  },
+  {
+    "sourceContractId": 342,
+    "sourceUnitId": 10180,
+    "sourceName": "Central Eólica Santo Inácio IV S.A.",
+    "type": "contract",
+    "availablePower": 4419.36,
+    "availableForSale": 4419.36,
+    "cost": 191.99,
+    "balance": 1050,
+    "destinations": [],
+    "destinationStates": []
+  },
+  {
+    "sourceContractId": 343,
+    "sourceUnitId": 10181,
+    "sourceName": "Central Eolica Sao Raimundo S.A.",
+    "type": "contract",
+    "availablePower": 4419.36,
+    "availableForSale": 4419.36,
+    "cost": 191.99,
+    "balance": 1050,
+    "destinations": [],
+    "destinationStates": []
+  },
+  {
+    "sourceContractId": 344,
+    "sourceUnitId": 10179,
+    "sourceName": "Central Eolica Santo Inacio III S.A.",
+    "type": "contract",
+    "availablePower": 4419.36,
+    "availableForSale": 4419.36,
+    "cost": 191.99,
+    "balance": 1050,
+    "destinations": [],
+    "destinationStates": []
+  }
+]

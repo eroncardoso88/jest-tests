@@ -1,0 +1,12 @@
+.contract-name-cost {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* width: 200px; */
+}
+
+.contract-name {
+    color: #007e7a;
+    font-weight: bold;
+    text-align: center;
+}

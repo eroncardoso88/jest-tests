@@ -1,0 +1,16 @@
+/* istanbul ignore file */
+
+export default [
+  'january',
+  'february',
+  'march',
+  'april',
+  'may',
+  'june',
+  'july',
+  'august',
+  'september',
+  'october',
+  'november',
+  'december'
+];

@@ -1,0 +1,34 @@
+.body-cell span {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  width: 180px;
+  padding: 16px;
+}
+.body-cell-input {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  width: 205px;
+  padding: 16px;
+}
+th:nth-child(even) {
+}
+th:nth-child(odd) {
+}
+td:nth-child(even) {
+}
+td:nth-child(odd) {
+}
+
+th,
+td {
+  width: 225.85px !important;
+}
+td,
+​​​​​​ .text-field {
+  align-items: center;
+  justify-content: center;
+}

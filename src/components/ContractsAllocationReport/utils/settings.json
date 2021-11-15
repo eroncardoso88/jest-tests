@@ -1,0 +1,43 @@
+{
+    "workbench.colorTheme": "Omni",
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  "editor.fontSize": 16,
+  "editor.lineHeight": 24,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.rulers": [80, 120],
+  "editor.renderLineHighlight": "gutter",
+  "omnisharp.useEditorFormattingSettings": true,
+  "terminal.integrated.fontSize": 14,
+  "files.autoSave": "onFocusChange",
+  "redhat.telemetry.enabled": true,
+  "terminal.explorerKind": "external",
+  "security.workspace.trust.untrustedFiles": "open",
+  "dotnet-test-explorer.testProjectPath": "*Testes*",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+"json.maxItemsComputed": 50000,
+"mssql.connections": [
+  {
+    "server": "{{put-server-name-here}}",
+    "database": "{{put-database-name-here}}",
+    "user": "{{put-username-here}}",
+    "password": "{{put-password-here}}"
+  }
+],
+}
